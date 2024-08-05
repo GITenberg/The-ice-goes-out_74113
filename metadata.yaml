@@ -1,0 +1,43 @@
+_repo: The-ice-goes-out_74113
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Pyles, V. E. (Virgil Evans)
+    alias: Pyles, Virgil Evans
+    birthdate: 1891
+    deathdate: 1965
+    gutenberg_agent_id: '56241'
+    url: http://www.gutenberg.org/2009/agents/56241
+creator:
+  author:
+    agent_name: Pierce, Frank Richardson
+    alias: Ranger, Seth
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '57352'
+    url: http://www.gutenberg.org/2009/agents/57352
+description: ''
+gutenberg_issued: '2024-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74113'
+language: en
+pgterms:marc904: https://archive.org/details/adv_1928_07_01
+pgterms:marc905: 20240511010515pierce
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Butterick Publishing Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Alaska -- Fiction'
+- !lcsh 'Burglary -- Fiction'
+- !lcsh 'Sweepstakes -- Fiction'
+- !lcsh 'Thawing -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The ice goes out
+url: http://www.gutenberg.org/ebooks/74113
