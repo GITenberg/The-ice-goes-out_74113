@@ -8,6 +8,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '56241'
     url: http://www.gutenberg.org/2009/agents/56241
+covers:
+- cover_type: archival
+  image_path: 74113-h/images/cover.jpg
 creator:
   author:
     agent_name: Pierce, Frank Richardson
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '57352'
     url: http://www.gutenberg.org/2009/agents/57352
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74113#The-ice-goes-out
 gutenberg_issued: '2024-07-24'
 gutenberg_type: Text
 identifiers:
